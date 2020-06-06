@@ -1,0 +1,2 @@
+install -> "sudo apt-get install"
+javasports FileName -> Creates a file named FileName.java with java template
