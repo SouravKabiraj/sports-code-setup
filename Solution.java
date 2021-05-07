@@ -5,7 +5,7 @@ import java.util.List;
 public class Solution {
     public static void main(String[] args) throws Exception {
         BufferedReader br = new BufferedReader(new FileReader(new File("input.txt")));
-        // BufferedReader br = new BufferedReader(new InputStreamReader(System.in)));
+        // BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         handleMultipleTestCases(br);
     }
 
